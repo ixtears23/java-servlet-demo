@@ -33,6 +33,7 @@
   </dependencies>
   <build>
     <finalName>java-servlet-demo</finalName>
+<<<<<<< HEAD
 	<plugins>
 	  <plugin>
 	    <groupId>org.apache.maven.plugins</groupId>
@@ -52,5 +53,7 @@
 	    </configuration>
 	  </plugin>
 	</plugins>
+=======
+>>>>>>> branch 'master' of https://github.com/ixtears23/java-servlet-demo.git
   </build>
 </project>
